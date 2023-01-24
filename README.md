@@ -1,2 +1,2 @@
 # Bird-Detection
-In this Detection algorithm we are using Transfer Learning
+In this Detection algorithm we are using MobileNetV2
